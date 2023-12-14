@@ -1,0 +1,22 @@
+{"properties": [
+  {
+    "name": "spring.eureka.client.register-with-eureka",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client.register-with-eureka'"
+  },
+  {
+    "name": "spring.eureka.client.fetch-registry",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client.fetch-registry'"
+  },
+  {
+    "name": "spring.eureka.client.serviceUrl.default-zone",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client.serviceUrl.default-zone'"
+  },
+  {
+    "name": "spring.eureka.client.instance.hostname",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.eureka.client.instance.hostname'"
+  }
+]}
